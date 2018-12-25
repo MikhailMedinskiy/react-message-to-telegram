@@ -1,0 +1,19 @@
+.article{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 1px 1px 6px -1px #c3c3c3;
+    box-sizing: border-box;
+    img{
+        max-width: 100%;
+    }
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+}
+.wrapper{
+    padding: 50px 0;
+}
